@@ -1,1 +1,0 @@
-    <div style="--b:#F3AC3C;--m:100px;--z:3"></div><div style="--b:#998235;--z:2"> </div><div style="--b:#1A4341;--m:-100px;--z:1"></div><style>body{background:#0B2429;display:flex;align-items:center;justify-content:center;}div{width:150px;height:150px;background:#998235;border-radius:67% 0;position:absolute;background:var(--b);margin-left:var(--m);z-index:var(--z);}</style>

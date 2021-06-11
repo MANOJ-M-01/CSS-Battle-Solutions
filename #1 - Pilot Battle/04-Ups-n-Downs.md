@@ -1,1 +1,0 @@
-    <div><p><p><p><p><p><p><style>body{background:#62306D;display:flex;align-items:center;justify-content:center;}div{display:grid;grid-template-columns:1fr 1fr 1fr;}p{margin:0;width:100;height:100;}p:nth-child(even){background:#F7EC7D;border-radius:0 0 50% 50%;}p:nth-child(2){border-radius:50% 50% 0 0;}
