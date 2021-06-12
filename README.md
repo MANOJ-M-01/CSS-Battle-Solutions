@@ -25,3 +25,12 @@ Solution | Picture | Status
 [Target #19 - Cube](./%2303%20-%20Cursor/19-Cube.md) | <img height="80px" src="https://cssbattle.dev/targets/19.png"/> | 99.9%
 [Target #20 - Ticket](./%2303%20-%20Cursor/20-Ticket.md) | <img height="80px" src="https://cssbattle.dev/targets/20.png"/> | 100%
 --|--|--
+[Target #21 - Cube](./%2304%20-%20Display/21-SitePoint-Logo.md) | <img height="80px" src="https://cssbattle.dev/targets/21.png"/> | 100%
+[Target #22 - Cloud](./%2304%20-%20Display/22-Cloud.md) | <img height="80px" src="https://cssbattle.dev/targets/22.png"/> | 100%
+[Target #23 - Boxception](./%2304%20-%20Display/23-Boxception.md) | <img height="80px" src="https://cssbattle.dev/targets/23.png"/> | 100%
+[Target #24 - Switches](./%2304%20-%20Display/24-Switches.md) | <img height="80px" src="https://cssbattle.dev/targets/24.png"/> | 100%
+[Target #25 - Blossom](./%2304%20-%20Display/25-Blossom.md) | <img height="80px" src="https://cssbattle.dev/targets/25.png"/> | 100%
+[Target #26 - Smiley](./%2304%20-%20Display/26-Smiley.md) | <img height="80px" src="https://cssbattle.dev/targets/26.png"/> | 100%
+[Target #27 - LockUp](./%2304%20-%20Display/27-LockUp.md) | <img height="80px" src="https://cssbattle.dev/targets/27.png"/> | 100%
+[Target #28 - Cups-Balls](./%2304%20-%20Display/28-Cups-Balls.md) | <img height="80px" src="https://cssbattle.dev/targets/28.png"/> | 100%
+--|--|--
