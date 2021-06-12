@@ -1,0 +1,1 @@
+    <div><p><p class="c"><p><p class="c"><p class="c"><p><p class="c"><p><p><p class="c"><p><p class="c"></div><style>*{margin:0;background:#5C434C}div{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:10px;margin:5}p{margin:5;height:80;background:#F09462;border-radius:100% 0 0 0;}.c{background:#F5D6B4
