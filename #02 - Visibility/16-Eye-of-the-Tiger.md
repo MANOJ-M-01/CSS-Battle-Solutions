@@ -1,0 +1,1 @@
+    <div><p><style>*{background:#0B2429}div{top:50;left:100;width:200;height:200;background:#998235;border-radius:0 50%;transform:rotate(135deg);position:absolute;display:flex;justify-content:center;align-items:center}p{position:relative;width:50;height:50;background:#0B2429;border-radius:50%;box-shadow:0px 0px 0px 45px #F3AC3C,0px 0px 0px 65px #0B2429
