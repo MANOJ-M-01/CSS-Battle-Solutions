@@ -23,5 +23,5 @@ Solution | Picture | Status
 [Target #18 - Matrix](./%2302%20-%20Visibility/18-Matrix.md) | <img height="80px" src="https://cssbattle.dev/targets/18.png"/> | 100%
 --|--|--
 [Target #19 - Cube](./%2303%20-%20Cursor/19-Cube.md) | <img height="80px" src="https://cssbattle.dev/targets/19.png"/> | 99.9%
-[Target #20 - Ticket](./%2303%20-%20Cursor/20-Ticket.md) | <img height="80px" src="https://cssbattle.dev/targets/20.png"/> | 99.9%
+[Target #20 - Ticket](./%2303%20-%20Cursor/20-Ticket.md) | <img height="80px" src="https://cssbattle.dev/targets/20.png"/> | 100%
 --|--|--
