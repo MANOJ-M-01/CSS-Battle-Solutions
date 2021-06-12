@@ -19,6 +19,6 @@ Solution | Picture | Status
 [Target #14 - Web Maker Logo](./%2302%20-%20Visibility/14-Web-Maker-Logo.md) | <img height="80px" src="https://cssbattle.dev/targets/14.png"/> | 91.9%
 [Target #15 - Overlap](./%2302%20-%20Visibility/15-Overlap.md) | <img height="80px" src="https://cssbattle.dev/targets/15.png"/> | 100%
 [Target #16 - Eye of the Tiger](./%2302%20-%20Visibility/16-Eye-of-the-Tiger.md) | <img height="80px" src="https://cssbattle.dev/targets/16.png"/> | 100%
-[Target #17 - Fidget Spinner](./%2302%20-%20Visibility/17-Fidget-Spinner.md) | <img height="80px" src="https://cssbattle.dev/targets/17.png"/> | 99.8%
+[Target #17 - Fidget Spinner](./%2302%20-%20Visibility/17-Fidget-Spinner.md) | <img height="80px" src="https://cssbattle.dev/targets/17.png"/> | 100%
 [Target #18 - Matrix](./%2302%20-%20Visibility/18-Matrix.md) | <img height="80px" src="https://cssbattle.dev/targets/18.png"/> | 100%
 --|--|--
