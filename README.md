@@ -34,6 +34,6 @@ Solution | Picture | Status
 [Target #27 - LockUp](./%2304%20-%20Display/27-LockUp.md) | <img height="80px" src="https://cssbattle.dev/targets/27.png"/> | 100%
 [Target #28 - Cups-Balls](./%2304%20-%20Display/28-Cups-Balls.md) | <img height="80px" src="https://cssbattle.dev/targets/28.png"/> | 100%
 --|--|--
-[Target #29 - Suffocate](./%2304%20-%20Display/29-Suffocate.md) | <img height="80px" src="https://cssbattle.dev/targets/29.png"/> | 100%
-[Target #30 - Horizon](./%2304%20-%20Display/30-Horizon.md) | <img height="80px" src="https://cssbattle.dev/targets/30.png"/> | 100%
+[Target #29 - Suffocate](./%2305%20-%20Display/29-Suffocate.md) | <img height="80px" src="https://cssbattle.dev/targets/29.png"/> | 100%
+[Target #30 - Horizon](./%2305%20-%20Display/30-Horizon.md) | <img height="80px" src="https://cssbattle.dev/targets/30.png"/> | 100%
 --|--|--
