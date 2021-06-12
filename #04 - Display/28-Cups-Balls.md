@@ -1,0 +1,1 @@
+    <div><p><p i j><p j><p i ><p i k><p><p i><p k><style>body{background: #1A4341;display:flex;justify-content:center;align-items:center}div{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:20px}p{margin:0;width:50;height:50;background:#998235;border-radius:50%}[i]{background:#F3AC3C}[j]{border-radius:50% 50% 0 0;}[k]{border-radius:0 0 50% 50%
