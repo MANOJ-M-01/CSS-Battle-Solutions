@@ -1,0 +1,1 @@
+    <p><p i><style>*{background:#222;position:absolute;margin:0;}p{top:86;left:138;width:70;height:50;border-top:30px solid #F2994A;border-left:30px solid #F2994A;border-radius:10px 0 ;transform:rotate(-45deg);background:none;}[i]{transform:rotate(135deg);border-color:#2D9CDB;left:160;top:134
