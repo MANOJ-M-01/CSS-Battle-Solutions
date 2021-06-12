@@ -1,0 +1,22 @@
+    <p><p i><p j><style>*{margin:0;background:#0B2429;}p{
+          position:absolute;
+          width:71;
+          height:70;
+          background:#998235;
+          transform:skewY(-45deg);
+          top:79;
+          left:129;
+        }
+        [i]{
+          top:80;
+          left:200;
+          background:#1A4341;
+          transform:skewY(45deg);
+        }
+        [j]{
+          top:135;
+          left:150;
+          width:100;
+          height:100;
+          background:#F3AC3C;
+          transform:rotate(45deg);
