@@ -1,0 +1,1 @@
+    <div><div i><style>*{background:#62306D}div{position:absolute;width:140;height:100;top:100;left:100;   background:#F7EC7D;box-shadow:60px 0 0 0 #E38F66}[i]{position:relative;top:-20;left:-20;width:40;height:40;border-radius:50%;background:#62306D;box-shadow:0 100px 0 0 #62306D,140px 0 0 -10px #62306D,140px 100px 0 -10px #62306D,200px 0 0 0 #62306D,200px 100px 0 0 #62306D
