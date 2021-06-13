@@ -13,7 +13,7 @@ Solution | Picture | Status
 [Target #9 - Tesseract](./%2301%20-%20Pilot%20Battle/09-Tesseract.md) | <img height="80px" src="https://cssbattle.dev/targets/9.png"/> | 100%
 [Target #10 - Cloaked Spirits](./%2301%20-%20Pilot%20Battle/10-Cloaked-Spirits.md) | <img height="80px" src="https://cssbattle.dev/targets/10.png"/> | 100%
 [Target #11 - Eye of Sauron](./%2301%20-%20Pilot%20Battle/11-Eye-of-Sauron.md) | <img height="80px" src="https://cssbattle.dev/targets/11.png"/> | 100%
-[Target #12 - Wiggly Moustache](./%2301%20-%20Pilot%20Battle/12-Wiggly-Moustache.md) | <img height="80px" src="https://cssbattle.dev/targets/12.png"/> | 99.9%
+[Target #12 - Wiggly Moustache](./%2301%20-%20Pilot%20Battle/12-Wiggly-Moustache.md) | <img height="80px" src="https://cssbattle.dev/targets/12.png"/> | 100%
 --|--|--
 [Target #13 - Totally Triangle](./%2302%20-%20Visibility/13-Totally-Triangle.md) | <img height="80px" src="https://cssbattle.dev/targets/13.png"/> | 100%
 [Target #14 - Web Maker Logo](./%2302%20-%20Visibility/14-Web-Maker-Logo.md) | <img height="80px" src="https://cssbattle.dev/targets/14.png"/> | 91.9%
