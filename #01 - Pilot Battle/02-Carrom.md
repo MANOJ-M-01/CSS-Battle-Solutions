@@ -1,1 +1,1 @@
-    <div><p><p><p><p><style>*{margin:0;background:#62374e;}div{margin:50px;display:grid;grid-template-columns:1fr 1fr ;gap:100px;grid-column-gap:200px;}p{height:50px;background:#fdc57b
+    <p><style>p{width:50;height:50;background:#fdc57b;margin:50 42;box-shadow:250px 0#fdc57b,250px 150px#fdc57b,0 150px#fdc57b,0 0 0 300px#62374e
