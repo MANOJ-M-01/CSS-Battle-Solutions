@@ -1,1 +1,1 @@
-    <p><p i><p j><style>*{background:#6592CF}p{position:absolute;margin:32 0 0 32;width:120;height:60;border-radius:0 0 1in 1in;background:radial-gradient(at 50% 0,#0000 40px,#060F55 0);transform:rotate(180deg)}[i]{left:208;}[j]{left:108;top:168;transform:none
+    <p><p i><p j><style>*{background:#6592CF}p{margin:40 32;width:80;height:40;border:20px solid #060F55;border-bottom:none;border-radius:60px 60px 0 0}[i]{margin:100 132;transform:rotate(180deg)}[j]{margin:-320 232
