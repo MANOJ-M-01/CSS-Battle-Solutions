@@ -1,0 +1,1 @@
+	<p><p i><style>*{background:#AA445F;}p{margin:50 67;width:100;height:200;background: #F7EC7D;border-radius:100px 0  0 100px}[i]{background:#E38F66;border-radius:0 100px 100px 0;margin:-250 217
