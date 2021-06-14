@@ -1,0 +1,1 @@
+    <p><p i><p j><style>*{background:#007065}p{position:absolute;width:0;height:0;border-left:125px solid transparent;border-right:125px solid transparent;border-bottom:100px solid #00A79D;top:134;left:75}[i]{top:84;border-bottom-color:#F5C181}[j]{top:34;border-bottom-color:#FFEECF
