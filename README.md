@@ -16,13 +16,13 @@ Solution | Picture | Status
 [Target #12 - Wiggly Moustache](./%2301%20-%20Pilot%20Battle/12-Wiggly-Moustache.md) | <img height="80px" src="https://cssbattle.dev/targets/12.png"/> | 100%
 --|--|--
 [Target #13 - Totally Triangle](./%2302%20-%20Visibility/13-Totally-Triangle.md) | <img height="80px" src="https://cssbattle.dev/targets/13.png"/> | 100%
-[Target #14 - Web Maker Logo](./%2302%20-%20Visibility/14-Web-Maker-Logo.md) | <img height="80px" src="https://cssbattle.dev/targets/14.png"/> | 91.9%
+[Target #14 - Web Maker Logo](./%2302%20-%20Visibility/14-Web-Maker-Logo.md) | <img height="80px" src="https://cssbattle.dev/targets/14.png"/> | 100%
 [Target #15 - Overlap](./%2302%20-%20Visibility/15-Overlap.md) | <img height="80px" src="https://cssbattle.dev/targets/15.png"/> | 100%
 [Target #16 - Eye of the Tiger](./%2302%20-%20Visibility/16-Eye-of-the-Tiger.md) | <img height="80px" src="https://cssbattle.dev/targets/16.png"/> | 100%
 [Target #17 - Fidget Spinner](./%2302%20-%20Visibility/17-Fidget-Spinner.md) | <img height="80px" src="https://cssbattle.dev/targets/17.png"/> | 100%
 [Target #18 - Matrix](./%2302%20-%20Visibility/18-Matrix.md) | <img height="80px" src="https://cssbattle.dev/targets/18.png"/> | 100%
 --|--|--
-[Target #19 - Cube](./%2303%20-%20Cursor/19-Cube.md) | <img height="80px" src="https://cssbattle.dev/targets/19.png"/> | 99.9%
+[Target #19 - Cube](./%2303%20-%20Cursor/19-Cube.md) | <img height="80px" src="https://cssbattle.dev/targets/19.png"/> | 100%
 [Target #20 - Ticket](./%2303%20-%20Cursor/20-Ticket.md) | <img height="80px" src="https://cssbattle.dev/targets/20.png"/> | 100%
 --|--|--
 [Target #21 - Cube](./%2304%20-%20Display/21-SitePoint-Logo.md) | <img height="80px" src="https://cssbattle.dev/targets/21.png"/> | 100%
