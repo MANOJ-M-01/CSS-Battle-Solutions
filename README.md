@@ -37,3 +37,6 @@ Solution | Picture | Status
 [Target #29 - Suffocate](./%2305%20-%20Inline/29-Suffocate.md) | <img height="80px" src="https://cssbattle.dev/targets/29.png"/> | 100%
 [Target #30 - Horizon](./%2305%20-%20Inline/30-Horizon.md) | <img height="80px" src="https://cssbattle.dev/targets/30.png"/> | 100%
 --|--|--
+[Target #31 - Equals](./%2306%20-%20Conic/31-Equals.md) | <img height="80px" src="https://cssbattle.dev/targets/31.png"/> | 100%
+[Target #32 - Band-aid](./%2306%20-%20Conic/32-Band-aid.md) | <img height="80px" src="https://cssbattle.dev/targets/32.png"/> | 100%
+--|--|--
