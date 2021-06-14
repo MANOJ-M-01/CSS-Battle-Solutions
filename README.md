@@ -40,5 +40,5 @@ Solution | Picture | Status
 [Target #31 - Equals](./%2306%20-%20Conic/31-Equals.md) | <img height="80px" src="https://cssbattle.dev/targets/31.png"/> | 100%
 [Target #32 - Band-aid](./%2306%20-%20Conic/32-Band-aid.md) | <img height="80px" src="https://cssbattle.dev/targets/32.png"/> | 100%
 --|--|--
-[Target #33 - Birdie](./%2306%20-%20Conic/33-Birdie.md) | <img height="80px" src="https://cssbattle.dev/targets/33.png"/> | 100%
+[Target #33 - Birdie](./%2307%20-%20Backface/33-Birdie.md) | <img height="80px" src="https://cssbattle.dev/targets/33.png"/> | 100%
 --|--|--
