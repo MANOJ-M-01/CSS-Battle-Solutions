@@ -1,0 +1,1 @@
+    <p><p i><p j class="b"><p k class="b"> <p l class="b"> <style>*{background:#293462;}p{width:50;height:140;background:#FE5F55;margin:80 142;border-radius:0 40px}[i]{margin:-220 192;border-radius:40px 0 0 0}[j]{margin:140 157;border-radius:50%;width:30;height:30;box-shadow:40px 0#293462}[k]{margin:-130 142}[l]{margin:-140 192;border-radius:40px 0}.b{background:#293462
