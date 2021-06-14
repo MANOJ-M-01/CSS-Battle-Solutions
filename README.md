@@ -41,4 +41,12 @@ Solution | Picture | Status
 [Target #32 - Band-aid](./%2306%20-%20Conic/32-Band-aid.md) | <img height="80px" src="https://cssbattle.dev/targets/32.png"/> | 100%
 --|--|--
 [Target #33 - Birdie](./%2307%20-%20Backface/33-Birdie.md) | <img height="80px" src="https://cssbattle.dev/targets/33.png"/> | 100%
+[Target #34 - Christmas Tree](./%2307%20-%20Backface/34-Christmas-Tree.md) | <img height="80px" src="https://cssbattle.dev/targets/34.png"/> | 100%
+[Target #35 - Ice Cream](./%2307%20-%20Backface/35-Ice-Cream.md) | <img height="80px" src="https://cssbattle.dev/targets/35.png"/> | 100%
+[Target #36 - Interleaved](./%2307%20-%20Backface/36-Interleaved.md) | <img height="80px" src="https://cssbattle.dev/targets/36.png"/> | 100%
+[Target #37 - Tunnel](./%2307%20-%20Backface/37-Tunnel.md) | <img height="80px" src="https://cssbattle.dev/targets/37.png"/> | 100%
+[Target #38 - Not Simply Square](./%2307%20-%20Backface/38-Not-Simply-Square.md) | <img height="80px" src="https://cssbattle.dev/targets/38.png"/> | 100%
+[Target #39 - Sunset](./%2307%20-%20Backface/39-Sunset.md) | <img height="80px" src="https://cssbattle.dev/targets/39.png"/> | 100%
+[Target #40 - Letter B](./%2307%20-%20Backface/40-Letter-B.md) | <img height="80px" src="https://cssbattle.dev/targets/40.png"/> | 100%
+[Target #41 - Fox Head](./%2307%20-%20Backface/41-Fox-Head.md) | <img height="80px" src="https://cssbattle.dev/targets/41.png"/> | 100%
 --|--|--
