@@ -1,1 +1,1 @@
-    <style>*{margin:0;height:50;background:#F7EC7D;box-shadow:0 0 0 50px#E38F66,0 0 0 150px#AA445F,0 0 0 250px#62306D
+    <style>html{box-shadow:0 50px#F7EC7D inset,0 100px#E38F66 inset,0 200px#AA445F inset,0 400px#62306D inset
